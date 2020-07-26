@@ -1,0 +1,32 @@
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\le\HERO Testi.exe
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\be\HERO Testi.exe
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\le\HERO Testi.pdb
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\be\HERO Testi.pdb
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\HERO Testi.exe
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\HERO Testi.pdb
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\le\HERO Testi.pe
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\le\HERO Testi.pdbx
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\be\HERO Testi.pe
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\be\HERO Testi.pdbx
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\LE\CTRE.pe
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\LE\ctre_netmf_native.pe
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\BE\CTRE.pe
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\BE\ctre_netmf_native.pe
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\LE\CTRE.pdbx
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\LE\ctre_netmf_native.pdbx
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\BE\CTRE.pdbx
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\BE\ctre_netmf_native.pdbx
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\CTRE.dll
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\ctre_netmf_native.dll
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\CTRE.pdb
+C:\Users\jhahn\source\repos\HERO Testi\bin\Debug\ctre_netmf_native.pdb
+C:\Users\jhahn\source\repos\HERO Testi\obj\Debug\HERO Testi.csprojAssemblyReference.cache
+C:\Users\jhahn\source\repos\HERO Testi\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\jhahn\source\repos\HERO Testi\obj\Debug\HERO Testi.csproj.CoreCompileInputs.cache
+C:\Users\jhahn\source\repos\HERO Testi\obj\Debug\be\HERO Testi.pe
+C:\Users\jhahn\source\repos\HERO Testi\obj\Debug\be\HERO Testi.pdbx
+C:\Users\jhahn\source\repos\HERO Testi\obj\Debug\le\HERO Testi.pe
+C:\Users\jhahn\source\repos\HERO Testi\obj\Debug\le\HERO Testi.pdbx
+C:\Users\jhahn\source\repos\HERO Testi\obj\Debug\HERO Testi.csproj.CopyComplete
+C:\Users\jhahn\source\repos\HERO Testi\obj\Debug\HERO Testi.exe
+C:\Users\jhahn\source\repos\HERO Testi\obj\Debug\HERO Testi.pdb
