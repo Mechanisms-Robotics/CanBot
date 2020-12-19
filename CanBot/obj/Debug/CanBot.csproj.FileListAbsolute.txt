@@ -1,0 +1,38 @@
+C:\Users\alexj\source\repos\CanBot\CanBot\obj\Debug\CanBot.csprojAssemblyReference.cache
+C:\Users\alexj\source\repos\CanBot\CanBot\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\alexj\source\repos\CanBot\CanBot\obj\Debug\CanBot.csproj.CoreCompileInputs.cache
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\le\HERO Testi.exe
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\be\HERO Testi.exe
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\le\HERO Testi.pdb
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\be\HERO Testi.pdb
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\HERO Testi.exe
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\HERO Testi.pdb
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\le\HERO Testi.pe
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\le\HERO Testi.pdbx
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\be\HERO Testi.pe
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\be\HERO Testi.pdbx
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\LE\CTRE.pe
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\LE\CTRE.Phoenix.LowLevel.pe
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\LE\ctre_netmf_native.pe
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\BE\CTRE.pe
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\BE\CTRE.Phoenix.LowLevel.pe
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\BE\ctre_netmf_native.pe
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\LE\CTRE.pdbx
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\LE\CTRE.Phoenix.LowLevel.pdbx
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\LE\ctre_netmf_native.pdbx
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\BE\CTRE.pdbx
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\BE\CTRE.Phoenix.LowLevel.pdbx
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\BE\ctre_netmf_native.pdbx
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\CTRE.dll
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\CTRE.Phoenix.LowLevel.dll
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\ctre_netmf_native.dll
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\CTRE.pdb
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\CTRE.Phoenix.LowLevel.pdb
+C:\Users\alexj\source\repos\CanBot\CanBot\bin\Debug\ctre_netmf_native.pdb
+C:\Users\alexj\source\repos\CanBot\CanBot\obj\Debug\be\HERO Testi.pe
+C:\Users\alexj\source\repos\CanBot\CanBot\obj\Debug\be\HERO Testi.pdbx
+C:\Users\alexj\source\repos\CanBot\CanBot\obj\Debug\le\HERO Testi.pe
+C:\Users\alexj\source\repos\CanBot\CanBot\obj\Debug\le\HERO Testi.pdbx
+C:\Users\alexj\source\repos\CanBot\CanBot\obj\Debug\CanBot.csproj.CopyComplete
+C:\Users\alexj\source\repos\CanBot\CanBot\obj\Debug\HERO Testi.exe
+C:\Users\alexj\source\repos\CanBot\CanBot\obj\Debug\HERO Testi.pdb
